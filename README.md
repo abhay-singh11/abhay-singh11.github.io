@@ -2,8 +2,8 @@
 
 
 ## Education
-- Ph.D., Mechanical Engineering | Texas A&M University, College Station, TX, USA (_Aug 2024_)								       		
-- B.Tech., Chemical Engineering	| Indian Institute of Technology Bombay, Mumbai, India (_Aug 2017_)	 			        		
+- Ph.D. in Mechanical Engineering | Texas A&M University, College Station, TX, USA (_Aug 2024_)								       		
+- B.Tech. in Chemical Engineering	| Indian Institute of Technology Bombay, Mumbai, India (_Aug 2017_)	 			        		
 
 
 ## Work Experience
