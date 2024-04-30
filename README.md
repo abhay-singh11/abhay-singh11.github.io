@@ -30,12 +30,12 @@
 ### Programming: 
 - Python (PyTorch, TensorFlow, Pandas, NumPy, SciPy), C++, Kotlin, Java, Julia, MATLAB, Latex
 ### Algorithms: 
-- Dijkstra, A*, M*, D*lite, Conflict Based Search (CBS), Rural Postman Problem (RPP)
+- Dijkstra, A\*, M\*, D*lite, Conflict Based Search (CBS), Rural Postman Problem (RPP)
 ## Software: 
 - Git, CUDA, Robot Operating System (ROS), CPLEX, Gurobi, Solidworks
-## Skills: 
+### Skills: 
 - Numerical Optimization, Model Predictive Control, Nonlinear Programming, Probability Theory, State Estimation, Combinatorial and Stochastic Optimization, Graph Theory, Deep Learning, Reinforcement Learning
-## Certifications: 
+### Certifications: 
 - Machine Learning, Deep Learning Specialization, Object-oriented Data Structures in C++
 
 
