@@ -40,7 +40,7 @@
                 <li>B.Tech. in Chemical Engineering, 2017<br>Indian Institute of Technology, Bombay</li>
             </ul>
         </section> 
-        <section id="contact" class="contact">
+        <section id="contact" class="contact hidden">
             <h3>Contact Information</h3>
             <p>Email: <a href="mailto:abhay.singh@tamu.edu">abhay.singh@tamu.edu</a></p>
             <p>Phone: <a href="tel:+19792507224">+1 (979) 250-7224</a></p>
@@ -50,5 +50,32 @@
     <footer>
         <p>&copy; 2024 Abhay Singh Bhadoriya</p>
     </footer>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const contactLink = document.querySelector('nav a[href="#contact"]');
+            const contactSection = document.getElementById('contact');
+            
+            function showContact() {
+                contactSection.classList.remove('hidden');
+            }
+
+            function hideContact() {
+                contactSection.classList.add('hidden');
+            }
+
+            contactLink.addEventListener('click', function(e) {
+                e.preventDefault();
+                showContact();
+            });
+
+            document.addEventListener('click', function(e) {
+                if (!contactSection.contains(e.target) && !contactLink.contains(e.target)) {
+                    hideContact();
+                }
+            });
+
+            hideContact();
+        });
+    </script>
 </body>
 </html>

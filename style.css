@@ -100,3 +100,37 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+.hidden {
+    display: none;
+}
+
+.contact {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact h3 {
+    color: #0366d6;
+    margin-top: 0;
+}
+
+.contact p {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+.contact a {
+    color: #0366d6;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact a:hover {
+    color: #024a86;
+    text-decoration: underline;
+}
