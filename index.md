@@ -2,11 +2,13 @@
 layout: default
 ---
 
+![Abhay Singh Bhadoriya](/assets/img/headshot2.png){: .profile-img}
+
 # About Me
 
 I am a PhD Candidate in Mechanical Engineering at Texas A&M University, specializing in multi-agent path planning, optimization, and autonomous systems.
 
-![Abhay Singh Bhadoriya](/assets/img/headshot2.jpg){: .profile-img}
+
 
 ## Education
 
