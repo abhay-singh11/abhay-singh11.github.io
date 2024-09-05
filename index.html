@@ -14,9 +14,10 @@
     </header>
     <nav>
         <a href="#">Home</a>
-        <a href="#">Research</a>
-        <a href="#">Publications</a>
-        <a href="#">Students</a>
+        <a href="#research">Research</a>
+        <a href="#publications">Publications</a>
+        <a href="#projects">Projects</a>
+        
     </nav>
     <main>
         <section class="profile">
@@ -45,5 +46,17 @@
     <footer>
         <p>&copy; 2024 Abhay Singh Bhadoriya</p>
     </footer>
+    <script>
+        // Load external HTML files into sections
+        function loadSection(url, elementId) {
+            fetch(url)
+                .then(response => response.text())
+                .then(data => document.getElementById(elementId).innerHTML = data);
+        }
+
+        loadSection('research.html', 'research');
+        loadSection('publications.html', 'publications');
+        loadSection('projects.html', 'projects');
+    </script>
 </body>
 </html>
