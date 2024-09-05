@@ -7,26 +7,22 @@ body {
     background-color: #f4f4f4;
 }
 
-.container {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
 header {
     background-color: #222;
     color: white;
-    padding: 20px 0;
     text-align: center;
+    padding: 20px 0;
 }
 
-header h1 {
+h1 {
     margin: 0;
-    font-size: 2em;
+    font-size: 2.5em;
 }
 
 nav {
-    margin-top: 10px;
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
 }
 
 nav a {
@@ -36,9 +32,16 @@ nav a {
     font-weight: bold;
 }
 
+main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+}
+
 .profile {
     text-align: center;
-    margin-top: 30px;
+    margin-right: 40px;
 }
 
 .profile-img {
@@ -49,6 +52,10 @@ nav a {
     object-fit: cover;
 }
 
+.info {
+    margin-top: 10px;
+}
+
 .contact-icons a {
     margin: 0 10px;
     font-size: 1.5em;
@@ -56,23 +63,30 @@ nav a {
     text-decoration: none;
 }
 
-.content {
-    background-color: white;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    margin-top: 20px;
-    padding: 20px;
-    border-radius: 5px;
+.bio {
+    max-width: 600px;
 }
 
-h2 {
+h3 {
     color: #0366d6;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
     margin-bottom: 10px;
 }
 
 footer {
     text-align: center;
-    margin-top: 20px;
     padding: 10px 0;
     background-color: #222;
     color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
