@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Abhay Singh Bhadoriya](/assets/img/headshot2.png){: .profile-img}
+![Abhay Singh Bhadoriya]({{ site.baseurl }}/assets/img/profile.jpg){: .profile-img}
 
 # About Me
 
