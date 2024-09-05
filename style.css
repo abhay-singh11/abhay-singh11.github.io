@@ -34,7 +34,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #0366d6;
+    color: #024a86;
 }
 
 main {
@@ -44,9 +44,10 @@ main {
     padding: 20px;
 }
 
-.profile {
+.profile, .contact {
     text-align: center;
-    margin-right: 40px;
+    margin: auto;
+    max-width: 600px;
 }
 
 .profile-img {
@@ -73,41 +74,8 @@ main {
     color: #024a86;
 }
 
-.bio {
-    max-width: 600px;
-}
-
-h3 {
-    color: #0366d6;
-    margin-top: 20px;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-li {
-    margin-bottom: 10px;
-}
-
-footer {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #222;
-    color: white;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
-.hidden {
-    display: none;
-}
-
 .contact {
     margin: 20px auto;
-    max-width: 600px;
     padding: 20px;
     background: white;
     border-radius: 8px;
@@ -133,4 +101,14 @@ footer {
 .contact a:hover {
     color: #024a86;
     text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #222;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }

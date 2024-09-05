@@ -13,12 +13,12 @@
         <h1>Abhay Singh Bhadoriya</h1>
     </header>
     <nav>
-        <a href="#">Home</a>
-        <a href="#contact">Contact</a>
+        <a href="index.html">Home</a>
+        <a href="contact.html">Contact</a>
     </nav>
     <main>
         <section class="profile">
-            <img src="assets/img/profile.jpg" alt="Profile Picture" class="profile-img">
+            <img src="assets/img/profile.jpg" alt="Abhay Singh Bhadoriya Profile Picture" class="profile-img">
             <div class="info">
                 <h2>Staff Scientist</h2>
                 <p>Information Systems and Modeling<br>Los Alamos National Laboratory</p>
@@ -33,49 +33,16 @@
         </section>
         <section class="bio">
             <h3>About Me</h3>
-            <p>I am an passionated researcher in the field of robotics and operations research.</p>
+            <p>I am a passionate researcher in the field of robotics and operations research.</p>
             <h3>Education</h3>
             <ul>
                 <li>Ph.D. in Mechanical Engineering, 2024<br>Texas A&M University</li>
                 <li>B.Tech. in Chemical Engineering, 2017<br>Indian Institute of Technology, Bombay</li>
             </ul>
-        </section> 
-        <section id="contact" class="contact hidden">
-            <h3>Contact Information</h3>
-            <p>Email: <a href="mailto:abhay.singh@tamu.edu">abhay.singh@tamu.edu</a></p>
-            <p>Phone: <a href="tel:+19792507224">+1 (979) 250-7224</a></p>
-            <p>Resume: <a href="/assets/cv/Resume_AbhaySingh.pdf" target="_blank">Download My Resume</a></p>
         </section>
     </main>
     <footer>
         <p>&copy; 2024 Abhay Singh Bhadoriya</p>
     </footer>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            const contactLink = document.querySelector('nav a[href="#contact"]');
-            const contactSection = document.getElementById('contact');
-            
-            function showContact() {
-                contactSection.classList.remove('hidden');
-            }
-
-            function hideContact() {
-                contactSection.classList.add('hidden');
-            }
-
-            contactLink.addEventListener('click', function(e) {
-                e.preventDefault();
-                showContact();
-            });
-
-            document.addEventListener('click', function(e) {
-                if (!contactSection.contains(e.target) && !contactLink.contains(e.target)) {
-                    hideContact();
-                }
-            });
-
-            hideContact();
-        });
-    </script>
 </body>
 </html>
