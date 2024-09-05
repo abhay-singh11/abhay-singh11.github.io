@@ -3,3 +3,8 @@ logo: /assets/img/headshot2.png
 description: I'm a Ph.D. candidate at Texas A&M University, focusing on perception, path planning, and scheduling for autonomous vehicles. Previously, I was a Research Associate at IIIT Hyderabad, working on trajectory planning and controls for autonomous cars. During my B.Tech at IIT Bombay, I led the electronics division of a Formula Student team, designing and building an electric race car for competition at Silverstone Circuit, UK. I also briefly worked at Vazirani Automotive on high-performance hybrid-electric powertrain development.
 # show_downloads: true
 theme: jekyll-theme-minimal
+navigation:
+  - {name: 'Home', link: '/'}
+  - {name: 'Research', link: '/research'}
+  - {name: 'Projects', link: '/projects'}
+  - {name: 'Publications', link: '/publications'}
