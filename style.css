@@ -30,6 +30,11 @@ nav a {
     color: white;
     text-decoration: none;
     font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #0366d6;
 }
 
 main {
@@ -45,10 +50,9 @@ main {
 }
 
 .profile-img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
-    /* border: 3px solid #0366d6; */
     object-fit: cover;
 }
 
@@ -61,6 +65,12 @@ main {
     font-size: 1.5em;
     color: #0366d6;
     text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
+.contact-icons a:hover {
+    transform: scale(1.2);
+    color: #024a86;
 }
 
 .bio {
@@ -89,33 +99,4 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-}
-
-a {
-    color: inherit; /* Use the current text color */
-    text-decoration: none;
-    transition: color 0.3s ease, background-color 0.3s ease;
-    position: relative;
-}
-
-a::after {
-    content: '';
-    position: absolute;
-    width: 100%;
-    transform: scaleX(0);
-    height: 2px;
-    bottom: 0;
-    left: 0;
-    background-color: #0366d6;
-    transform-origin: bottom right;
-    transition: transform 0.25s ease-out;
-}
-
-a:hover {
-    color: #0366d6; /* Change text color on hover */
-}
-
-a:hover::after {
-    transform: scaleX(1);
-    transform-origin: bottom left;
 }
