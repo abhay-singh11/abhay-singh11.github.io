@@ -100,7 +100,7 @@ li {
 .contact-icons a {
     margin: 0 10px;
     font-size: 1.5em;
-    color: #0366d6;
+    color: #515253;
     text-decoration: none;
     transition: transform 0.3s ease;
 }
@@ -135,7 +135,7 @@ li {
 }
 
 .contact a:hover {
-    color: #024a86;
+    color: #0879d6;
     text-decoration: underline;
 }
 
