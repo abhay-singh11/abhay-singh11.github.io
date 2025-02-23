@@ -14,7 +14,6 @@ module.exports = {
             new Link('Research', '/#!/research'),
             new Link('Experience', '/#!/experience'),
             new Link('Publications', '/#!/publications'),
-            // new Link('Students', '/#!/students')
         ];
 
         var items = links.map( function(item) {

@@ -42,29 +42,7 @@ var Bio = {
     'Transportation Systems', 'Supply Chain Systems'
   ],
 
-  //   softwares: [
-  //     'He also loves to write production-quality code, even for his research
-  //     work.', ' He writes production code in C++, Kotlin, Python and Julia.',
-  //     ' He extensively uses gnuplot for plotting.',
-  //     ' He has written code in C, C++, Java, Julia, Kotlin, and Python for
-  //     his ', 'research work. Furthermore, he also maintains and/or develops a
-  //     number of Julia packages.', ' Some of them are ', m('a', {
-  //       href: 'https://github.com/kaarthiksundar/Dubins.jl',
-  //       class: 'link dark-gray hover-dark-blue',
-  //       target: '_blank',
-  //       rel: 'noopener noreferrer'
-  //     },
-  //       'Dubins.jl'),
-  //     ' and ',
-  //     m('a', {
-  //       href: 'https://github.com/sujeevraja/PolyhedralRelaxations.jl',
-  //       class: 'link dark-gray hover-dark-blue',
-  //       target: '_blank',
-  //       rel: 'noopener noreferrer'
-  //     },
-  //       'PolyhedralRelaxations.jl'),
-  //     '.'
-  //   ]
+
 }
 
           module.exports = Bio
