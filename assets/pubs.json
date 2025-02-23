@@ -1,0 +1,79 @@
+[
+  {
+    "type": "journal",
+    "authors": "A. S. Bhadoriya, S. Rathinam, S. Darbha, D. W. Casbeer, S. G. Manyam",
+    "fullAuthors": "Abhay Singh Bhadoriya, Sivakumar Rathinam, Swaroop Darbha, David W Casbeer, Satyanarayana G Manyam",
+    "JCTitle": "Journal of the Indian Institute of Science",
+    "year": "2025",
+    "paperTitle": "Assisted Path Planning for a UGV-UAV Team Through a Stochastic Network",
+    "doi": "10.1007/s41745-024-00459-z",
+    "arxiv": "2312.17340",
+    "cite": "@article{bhadoriya2025assisted,\n title={Assisted Path Planning for a UGV--UAV Team Through a Stochastic Network},\n author={Bhadoriya, Abhay Singh and Rathinam, Sivakumar and Darbha, Swaroop and Casbeer, David W and Manyam, Satyanarayana G},\n journal={Journal of the Indian Institute of Science},\n pages={1--20},\n year={2025},\n publisher={Springer}\n}"  
+  },
+  {
+    "type": "preprint",
+    "authors": "A. S. Bhadoriya, D. Deka and K. Sundar",
+    "fullAuthors": "Abhay Singh Bhadoriya, Deepjyoti Deka and Kaarthik Sundar",
+    "JCTitle": "",
+    "year": "2024",
+    "paperTitle": "Equitable Routing - Rethinking the Multiple Traveling Salesman Problem",
+    "doi": "",
+    "arxiv": "2404.08157",
+    "cite": "@Article{arxiv2024_fmtsp,\n author={Abhay Singh Bhadoriya and Deepjyoti Deka and Kaarthik Sundar},\n author+an={1=student},\n date={2024-04-11},\n title={Equitable Routing - Rethinking the Multiple Traveling Salesman Problem},\n eprint={2404.08157},\n eprintclass={math.OC},\n eprinttype={arXiv},\n}"
+  },
+  {
+    "type": "journal",
+    "authors": "A. S. Bhadoriya, C. M. Montez, S. Rathinam, S. Darbha, D. W. Casbeer, S. G. Manyam",
+    "fullAuthors": "Abhay Singh Bhadoriya, Christopher M Montez, Sivakumar Rathinam, Swaroop Darbha, David W Casbeer, Satyanarayana G Manyam",
+    "JCTitle": "IEEE Transactions on Automation Science and Engineering",
+    "year": "2023",
+    "paperTitle": "Optimal Path Planning for a Convoy-Support Vehicle Pair Through a Repairable Network",
+    "doi": "10.1109/TASE.2023.3305392",
+    "arxiv": "",
+    "cite": "@article{bhadoriya2023optimal,\n title={Optimal path planning for a convoy-support vehicle pair through a repairable network},\n author={Bhadoriya, Abhay Singh and Montez, Christopher M and Rathinam, Sivakumar and Darbha, Swaroop and Casbeer, David W and Manyam, Satyanarayana G},\n journal={IEEE Transactions on Automation Science and Engineering},\n year={2023},\n publisher={IEEE}\n}"  
+  },
+  {
+    "type": "conference",
+    "authors": "A. S. Bhadoriya, S. Darbha, S. Rathinam, D. W. Casbeer, S. J. Rasmussen and S. G. Manyam",
+    "fullAuthors": "Abhay Singh Bhadoriya, Swaroop Darbha, Sivakumar Rathinam, David W. Casbeer, Steven J Rasmussen and Satyanarayana Gupta Manyam",
+    "JCTitle": "AIAA SCITECH 2023 Forum",
+    "year": "2023",
+    "paperTitle": "Multi-Agent Assisted Shortest Path Planning using Monte Carlo Tree Search",
+    "doi": "10.2514/6.2023-2655",
+    "arxiv": "",
+    "cite": "@inproceedings{bhadoriya2023multi,\n title={Multi-agent assisted shortest path planning using Monte Carlo tree search},\n author={Bhadoriya, Abhay Singh and Darbha, Swaroop and Rathinam, Sivakumar and Casbeer, David and Rasmussen, Steven J and Manyam, Satyanarayana G},\n booktitle={AIAA SCITECH 2023 Forum},\n pages={2655},\n year={2023}\n}"
+  },
+  {
+    "type": "journal",
+    "authors": "A. S. Bhadoriya, V. Vegamoor, S. Rathinam",
+    "fullAuthors": "Abhay Singh Bhadoriya, Vamsi Vegamoor, Sivakumar Rathinam",
+    "JCTitle": "Sensors",
+    "year": "2022",
+    "paperTitle": "Vehicle Detection and Tracking Using Thermal Cameras in Adverse Visibility Conditions",
+    "doi": "10.3390/s22124567",
+    "arxiv": "",
+    "cite": "@article{bhadoriya2022vehicle,\n title={Vehicle detection and tracking using thermal cameras in adverse visibility conditions},\n author={Bhadoriya, Abhay Singh and Vegamoor, Vamsi and Rathinam, Sivakumar},\n journal={Sensors},\n volume={22},\n number={12},\n pages={4567},\n year={2022},\n publisher={MDPI}\n}"  
+  },
+  {
+    "type": "conference",
+    "authors": "A. S. Bhadoriya, V. K. Vegamoor, S. Rathinam",
+    "fullAuthors": "Abhay Singh Bhadoriya, Vamsi Krishna Vegamoor, Sivakumar Rathinam",
+    "JCTitle": "SAE Technical Paper",
+    "year": "2021",
+    "paperTitle": "Object detection and tracking for autonomous vehicles in adverse weather conditions",
+    "doi": "10.4271/2021-01-0079",
+    "arxiv": "",
+    "cite": "@techreport{bhadoriya2021object,\n title={Object detection and tracking for autonomous vehicles in adverse weather conditions},\n author={Bhadoriya, Abhay Singh and Vegamoor, Vamsi Krishna and Rathinam, Sivakumar}\n year={2021},\n institution={SAE Technical Paper}\n}"
+  },
+  {
+    "type": "conference",
+    "authors": "NN Sriram, G. Kumar, A. S. Bhadoriya, M. S. Karthik, S. Saurav, B. Bhowrnick and K. M. Krishna",
+    "fullAuthors": "NN Sriram, Gourav Kumar, Abhay Singh Bhadoriya, M Siva Karthik, Saket Saurav, Brojeshwar Bhowrnick, K Madhava Krishna",
+    "JCTitle": "2019 IEEE Intelligent Vehicles Symposium (IV)",
+    "year": "2019",
+    "paperTitle": "A hierarchical network for diverse trajectory proposals",
+    "doi": "10.1109/IVS.2019.8813986",
+    "arxiv": "1906.03584",
+    "cite": "@inproceedings{sriram2019hierarchical,\n title={A hierarchical network for diverse trajectory proposals},\n author={Sriram, NN and Kumar, Gourav and Singh, Abhay and Karthik, M Siva and Saurav, Saket and Bhowrnick, Brojeshwar and Krishna, K Madhava},\n booktitle={2019 IEEE Intelligent Vehicles Symposium (IV)},\n pages={689--694},\n year={2019},\n organization={IEEE}\n}"
+  }
+]

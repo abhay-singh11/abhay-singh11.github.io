@@ -1,0 +1,20 @@
+[
+    {
+        "degree": "Ph.D.",
+        "department": "Mechanical Engineering",
+        "university": "Texas A&M University",
+        "link": "https://engineering.tamu.edu/mechanical/index.html",
+        "location": "College Station, Texas, USA",
+        "gpa": "4.0/4.0",
+        "year": "2024"
+    },
+    {
+        "degree": "B.Tech.",
+        "department": "Chemical Engineering",
+        "university": "Indian Institute of Technology, Bombay",
+        "link": "https://www.iitb.ac.in/",
+        "location": "Mumbai, Maharashtra, India",
+        "gpa": "8.03/10.0",
+        "year": "2017"
+    }
+]
