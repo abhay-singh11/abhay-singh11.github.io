@@ -1,6 +1,6 @@
-# Personal Webpage of Kaarthik Sundar
+# Personal Webpage of Abhay Singh
 
-Source code for my [homepage](https://kaarthiksundar.github.io). Styles are obtained from the [Tachyons](https://tachyons.io) CSS toolkit. Front-end
+Source code for my [homepage](https://github.com/abhay1220/abhaysingh.github.io). Styles are obtained from the [Tachyons](https://tachyons.io) CSS toolkit. Front-end
 UI loading and routing is handled with [MithrilJS](https://mithril.js.org).
 
 ## Developing
