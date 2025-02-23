@@ -16,7 +16,7 @@ function buildRouteResolver(component) {
   }
 };
 
-m.route(document.body, '/', {
+m.route(document.body, '/#!', {
   '/': buildRouteResolver(Home),
   '/research': buildRouteResolver(ResearchBox),
   '/experience': buildRouteResolver(ExperienceBox),
