@@ -12,7 +12,7 @@ var Bio = {
 
   research: [
     ' His research interests lie at the intersection of robotics and operations research.',
-    ' In particular, his workspans a range of topics, including global optimization,',
+    ' In particular, his work spans a range of topics, including global optimization,',
     ' vehicle routing problems, and training large language model (LLM) agents to address,',
     ' critical and recurring challenges.',
     ' His expertise lies in the areas of mathematical programming,',
