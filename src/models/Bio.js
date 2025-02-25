@@ -26,7 +26,7 @@ var Bio = {
 
   email: 'mailto:abhay@lanl.gov',
 
-  github: 'https://github.com/abhay1220',
+  github: 'https://github.com/abhay-singh11',
 
   scholar: 'https://scholar.google.com/citations?user=rbA21awAAAAJ&hl=en',
 
