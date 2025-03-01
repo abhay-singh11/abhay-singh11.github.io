@@ -11,6 +11,7 @@ module.exports = {
     view: function() {
         var links = [
             new Link('Home', '/#!/'),
+            new Link('Projects', '/#!/projects'),
             new Link('Research', '/#!/research'),
             new Link('Experience', '/#!/experience'),
             new Link('Publications', '/#!/publications'),
