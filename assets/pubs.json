@@ -35,13 +35,24 @@
   {
     "type": "conference",
     "authors": "A. S. Bhadoriya, S. Darbha, S. Rathinam, D. W. Casbeer, S. J. Rasmussen and S. G. Manyam",
-    "fullAuthors": "Abhay Singh Bhadoriya, Swaroop Darbha, Sivakumar Rathinam, David W. Casbeer, Steven J Rasmussen and Satyanarayana Gupta Manyam",
+    "fullAuthors": "Abhay Singh Bhadoriya, Swaroop Darbha, Sivakumar Rathinam, David W. Casbeer, Steven J. Rasmussen and Satyanarayana Gupta Manyam",
     "JCTitle": "AIAA SCITECH 2023 Forum",
     "year": "2023",
     "paperTitle": "Multi-Agent Assisted Shortest Path Planning using Monte Carlo Tree Search",
     "doi": "10.2514/6.2023-2655",
     "arxiv": "",
-    "cite": "@inproceedings{bhadoriya2023multi,\n title={Multi-agent assisted shortest path planning using Monte Carlo tree search},\n author={Bhadoriya, Abhay Singh and Darbha, Swaroop and Rathinam, Sivakumar and Casbeer, David and Rasmussen, Steven J and Manyam, Satyanarayana G},\n booktitle={AIAA SCITECH 2023 Forum},\n pages={2655},\n year={2023}\n}"
+    "cite": "@inproceedings{rasmussen2023multi,\n title={Multi-agent assisted shortest path planning using Monte Carlo tree search},\n author={Bhadoriya, Abhay Singh and Darbha, Swaroop and Rathinam, Sivakumar and Casbeer, David and Rasmussen, Steven J and Manyam, Satyanarayana G},\n booktitle={AIAA SCITECH 2023 Forum},\n pages={2655},\n year={2023}\n}"
+  },
+  {
+    "type": "conference",
+    "authors": "S. J. Rasmussen, D. W. Casbeer, A. S. Bhadoriya, S. Darbha and S. G. Manyam",
+    "fullAuthors": "Steven J. Rasmussen, David W. Casbeer, Abhay Singh Bhadoriya, Swaroop Darbha and Satyanarayana Gupta Manyam",
+    "JCTitle": "AIAA SCITECH 2023 Forum",
+    "year": "2023",
+    "paperTitle": "Multi-Agent Task Assignment and Sequencing using Monte Carlo Tree Search and Process Algebra",
+    "doi": "10.2514/6.2023-1473",
+    "arxiv": "",
+    "cite": "@inproceedings{bhadoriya2023multi,\n title={Multi-Agent Task Assignment and Sequencing using Monte Carlo Tree Search and Process Algebra},\n author={Rasmussen, Steven J and Casbeer, David and Bhadoriya, Abhay Singh and Darbha, Swaroop and Manyam, Satyanarayana G},\n booktitle={AIAA SCITECH 2023 Forum},\n pages={1473},\n year={2023}\n}"
   },
   {
     "type": "journal",
