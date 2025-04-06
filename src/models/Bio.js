@@ -22,7 +22,7 @@ var Bio = {
     ' robotics, autonomous systems and supply chain. '
   ],
 
-  cv: '../assets/Resume_AbhaySingh.pdf',
+  cv: '../assets/CV_AbhaySingh.pdf',
 
   email: 'mailto:abhay@lanl.gov',
 
